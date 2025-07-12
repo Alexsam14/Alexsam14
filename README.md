@@ -25,5 +25,5 @@ I am a machine learning enthusiast and aspiring researcher interested in digital
 - Research writing
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/alexsam](https://linkedin.com/in/alexsam)
+- LinkedIn: [linkedin.com/in/alexsam](www.linkedin.com/in/maruf-usman-44a2bb260)
 - Email: marufusman87@gmail.com
