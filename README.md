@@ -15,7 +15,7 @@ I am a machine learning enthusiast and aspiring researcher interested in digital
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsam&show_icons=true&theme=tokyonight)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsam14&show_icons=true&theme=tokyonight)
 
 ## 🌱 Currently Learning
 
